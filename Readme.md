@@ -1,4 +1,4 @@
-# Eerlijke verdeling assets
+# Eerlijke indeling assets
 
 This repository contains the assets for the app Eerlijke verdeling.
 These assets are not parts of the main repository, because some are incompatible
