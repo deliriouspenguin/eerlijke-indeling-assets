@@ -1,8 +1,10 @@
 # Eerlijke indeling assets
 
-This repository contains the assets for the app Eerlijke verdeling.
+This repository contains the assets for the app Eerlijke indeling (https://eerlijke-indeling.nl/).
 These assets are not parts of the main repository, because some are incompatible
 with the GPL.
+
+The main repository can be found at: https://github.com/deliriouspenguin/eerlijke-indeling
 
 ## Atributions
 
